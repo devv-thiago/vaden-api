@@ -1,0 +1,1 @@
+Verificações de autorização usando Guard.

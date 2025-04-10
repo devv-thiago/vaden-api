@@ -1,0 +1,1 @@
+Lógica de persistência usando @Repository.
